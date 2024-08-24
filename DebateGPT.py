@@ -58,7 +58,7 @@ async def debate_topic(topic, agents_info, num_iterations):
     return debate_log
 
 def main():
-    st.title("AI Debate Application")
+    st.title("Multi-Agent AI Debate")
 
     if 'debate_log' not in st.session_state:
         st.session_state.debate_log = []
