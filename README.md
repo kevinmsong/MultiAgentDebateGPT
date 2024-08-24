@@ -1,2 +1,2 @@
 # MultiAgentDebateGPT
-multiagentdebategpt.streamlit.app
+[multiagentdebategpt.streamlit.app](https://multiagentdebategpt.streamlit.app)
