@@ -1,2 +1,2 @@
 # MultiAgentDebateGPT
-https://multiagentdebategpt.streamlit.app
+multiagentdebategpt.streamlit.app
